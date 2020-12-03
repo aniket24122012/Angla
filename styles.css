@@ -1,0 +1,185 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color:#dbf6e9;
+  
+font-size: 18px;    
+}
+h1{
+    position: relative;
+    top: 10px;
+    margin:auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    color: #8ad7c1;
+}
+h2{
+    position: relative;
+    margin:50px auto;
+    color: #8ad7c1;
+}
+h3{
+    position: relative;
+    margin:50px auto;
+    color: #8ad7c1;
+
+}
+.pp{
+    position: relative;
+    padding-top: 10px;
+    margin-left: 300px;
+    color: #8ad7c1;
+    font-size: 30px;
+}
+}
+
+p{
+    position: relative;
+    line-height: 2;
+
+    margin: auto;
+
+}
+.first-contanier{
+position: relative;
+padding-top:100px ;
+background-color: #c6fced;  
+   
+}
+.c1{
+    position: absolute;
+    right: 300px;
+    top: 30px;
+}
+
+.c2{
+    position: absolute;
+   left: 300px;
+   bottom: 300px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.skill{
+    position: relative;
+    padding-top: 20px;
+    
+}
+
+hr{
+    width: 4%;
+    position: relative;
+    border-top: none;
+    border-bottom: dotted white 6px;
+margin: 100px auto;
+
+}
+.mid-c{
+position: relative;
+
+
+  }
+  .chill{
+      position: relative;
+      width: 20%;
+      float:left;
+      margin-right: 30px;
+      bottom: 20px;
+  }
+  .chill1{
+      position: relative;
+    width: 20%;
+    margin-left: 30px;
+    float: right;
+    bottom: 30px;
+    
+}
+.skill-row1{
+    position: relative;
+    width: 50%;
+    margin: auto;
+    text-align: right;
+    padding-bottom: 20px;
+}
+  .pro{
+      width:25%;
+    margin: 20px auto;
+  }
+  
+.profile{
+    width: 50%;
+    margin: auto;
+}
+.pa{
+    position: relative;
+    padding-bottom: 20px;
+}
+.bg{
+    background-color: #c6fced;  
+    
+}
+.get{
+    width: 50%;
+    margin: auto;
+}
+.pp1{
+    width: 62%;
+}
+.myButton {
+	box-shadow: 0px 0px 0px 2px #3acfc3;
+	background:linear-gradient(to bottom, #2dacbd 5%, #22ccc6 100%);
+	background-color:#2dacbd;
+	border-radius:10px;
+	border:1px solid #2fbaaa;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #283966;
+    margin: 30px auto;
+    
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #22ccc6 5%, #2dacbd 100%);
+	background-color:#22ccc6;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.down{
+    position: relative;
+    padding-top: 30px;
+}
+.down1{
+    position: relative;
+    padding-bottom: 20px;
+    
+    color: #8ad7c1;
+}
+.pp1{
+    margin: 30px auto;
+}
+.footer{
+    margin: 100px auto;
+    background-color: #ff2e63;  
+}
+.footer1{
+    position: relative;
+    color: #8ad7c1;
+    margin-right: 20px;
+    text-decoration: none;
+}
+.copy{
+    position: relative;
+    margin:30px auto;
+    color: #8ad7c1;
+}
+ a:hover{
+    color: white;
+}
